@@ -10,7 +10,7 @@ namespace Assignment_7._2._2
     {
         static void Main(string[] args)
         {
-            string test1 = "pet";
+            string test1 = "hello";
             string test2 = "avacado";
             string test3 = "intelligent";
             string test4 = "IceCreAm";
