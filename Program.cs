@@ -5,7 +5,7 @@ using System.Text;
 namespace Assignment_7._2._2
 {
     //Given a string s, reverse only the vowels in the string and return it
-    //Status: Complete however edge cases cause problems like only consonants
+    //Status: Complete however edge cases cause problems like only 1 vowel
     internal class Program
     {
         static void Main(string[] args)
